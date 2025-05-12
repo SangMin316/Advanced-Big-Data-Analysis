@@ -25,3 +25,8 @@ pip install -r requirements.txt
 ```bash
 /bin/bash scripts/exp.sh
 ```
+
+### Acknowledgement
+The code is inspired by prior awesome works on neural decoding tasks: \
+Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior [CVPR 2025]
+
