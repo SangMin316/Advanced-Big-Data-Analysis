@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ### Data
 + Download the Things-EEG dataset from the OSF repository and put them in the data dir.
 + In this project, we only use subject 1 data
++ First, you have to download data through shared link at dir : /data/sub01/~
 
 ### Run
 ```bash
